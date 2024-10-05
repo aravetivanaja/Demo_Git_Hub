@@ -3,3 +3,9 @@ GIT COMMANDS
 1.git status
 
 2.git init
+
+3.git add .
+
+4.git commit -m "first commit"
+
+5.git remote add origin "url"
