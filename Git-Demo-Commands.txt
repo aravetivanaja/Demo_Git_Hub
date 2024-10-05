@@ -1,0 +1,5 @@
+GIT COMMANDS
+
+1.git status
+
+2.git init
